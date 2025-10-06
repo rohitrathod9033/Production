@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "username": "rohit_rathod",
+    "bio": "Web Developer | Tech Enthusiast | Travel Lover",
+    "profile_picture": "https://via.placeholder.com/150",
+    "stats": {
+      "posts": 120,
+      "followers": 1500,
+      "following": 300
+    },
+    "posts": [
+      { "id": 1, "image": "https://via.placeholder.com/200" },
+      { "id": 2, "image": "https://via.placeholder.com/201" },
+      { "id": 3, "image": "https://via.placeholder.com/202" }
+    ]
+  },
+  {
+    "id": 2,
+    "username": "alice_smith",
+    "bio": "Photographer | Traveler",
+    "profile_picture": "https://via.placeholder.com/151",
+    "stats": {
+      "posts": 80,
+      "followers": 2000,
+      "following": 180
+    },
+    "posts": [
+      { "id": 1, "image": "https://via.placeholder.com/203" },
+      { "id": 2, "image": "https://via.placeholder.com/204" },
+      { "id": 3, "image": "https://via.placeholder.com/205" }
+    ]
+  },
+  {
+    "id": 3,
+    "username": "john_doe",
+    "bio": "Fitness | Lifestyle",
+    "profile_picture": "https://via.placeholder.com/152",
+    "stats": {
+      "posts": 50,
+      "followers": 900,
+      "following": 120
+    },
+    "posts": [
+      { "id": 1, "image": "https://via.placeholder.com/206" },
+      { "id": 2, "image": "https://via.placeholder.com/207" },
+      { "id": 3, "image": "https://via.placeholder.com/208" }
+    ]
+  },
+  {
+    "id": 4,
+    "username": "emma_watson",
+    "bio": "Actress | Humanitarian",
+    "profile_picture": "https://via.placeholder.com/153",
+    "stats": {
+      "posts": 200,
+      "followers": 5000,
+      "following": 350
+    },
+    "posts": [
+      { "id": 1, "image": "https://via.placeholder.com/209" },
+      { "id": 2, "image": "https://via.placeholder.com/210" },
+      { "id": 3, "image": "https://via.placeholder.com/211" }
+    ]
+  },
+  {
+    "id": 5,
+    "username": "michael_brown",
+    "bio": "Musician | Singer",
+    "profile_picture": "https://via.placeholder.com/154",
+    "stats": {
+      "posts": 95,
+      "followers": 1200,
+      "following": 400
+    },
+    "posts": [
+      { "id": 1, "image": "https://via.placeholder.com/212" },
+      { "id": 2, "image": "https://via.placeholder.com/213" },
+      { "id": 3, "image": "https://via.placeholder.com/214" }
+    ]
+  }
+]

@@ -1,0 +1,16 @@
+{
+  "name": "backned",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "server": "nodemon server.js"
+  },
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^5.1.0"
+  }
+}
